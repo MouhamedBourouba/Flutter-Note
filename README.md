@@ -27,11 +27,13 @@
 5. **🎨 Fonts: Google Fonts**
     - Enhances typography using Google Fonts for a polished appearance.
 
-## Screen Shots
-
+## Screenshots
+![2025-01-04_01-19](https://github.com/user-attachments/assets/bd71456c-580f-4203-a0c9-e964a7ea80ad)
+![2025-01-12_18-42_1](https://github.com/user-attachments/assets/c9815e7f-fb20-4c8c-8eee-60d8e46b8dd1)
+![2025-01-12_18-41](https://github.com/user-attachments/assets/d5ebc08b-3718-4936-8b2c-13de66c8c420)
 ![2025-01-04_01-23](https://github.com/user-attachments/assets/6dc972d6-4344-4626-84f5-bdf153fc16db)
 ![2025-01-04_01-22](https://github.com/user-attachments/assets/f03f56b1-cd8c-43d5-84d7-5f5ae609132a)
-![2025-01-04_01-19](https://github.com/user-attachments/assets/bd71456c-580f-4203-a0c9-e964a7ea80ad)
+
 
 ---
 
